@@ -1,0 +1,32 @@
+.custom-profile-pic {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    border-radius: 50%; /* Make the image circular */
+    /* Add other styles if necessary */
+}
+
+.section {
+    /* Set the gaya section di sini */
+}
+
+.skills-container {
+    display: flex;
+    justify-content: space-between; /* Mengatur jarak antara elemen */
+    flex-wrap: wrap; /* Mengizinkan baris baru jika elemen tidak muat */
+}
+
+.skills {
+    width: 30%; /* Atur lebar divisi Skills */
+    /* Set the gaya divisi Skills di sini */
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #f8f9fa; /* Light grey background */
+}
+.navbar {
+    background-color: #343a40 !important; /* Dark background for the navbar */
+}
+.navbar .nav-link {
+    color: #fff !important; /* White color for nav links */
+}
