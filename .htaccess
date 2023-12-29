@@ -1,0 +1,12 @@
+Options +SymLinksIfOwnerMatch
+RewriteEngine On
+
+# Allow Installatron requests
+RewriteCond %{REQUEST_FILENAME} deleteme\.\w+\.php
+RewriteRule (.*) - [L] 
+
+# Route requests to the public folder
+RewriteRule ^(.*)$ public/$1 [L]
+
+# Handle routing with Laravel
+RewriteRule ^ index.php [L]

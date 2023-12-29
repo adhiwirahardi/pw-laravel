@@ -23,6 +23,9 @@
                             My unwavering passion for continuous learning drives my quest to contribute positively to technology and research. I aspire to weave the threads of data into impactful solutions that make a tangible difference for businesses.
                             I'm just a humble seeker eager to untangle the mysteries of data and translate them into real-world impact. Let's embark on this journey together and bring innovative ideas to life through the captivating world of data science!
                         </p>
+                        <div class="text-center" style="margin-top: 20px;">
+                            <a href="{{ asset('Adhi Wirahardi - CV.pdf') }}" download="Adhi Wirahardi.pdf" class="btn btn-primary" style="background-color: #343a40;">Download My CV</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -126,7 +129,12 @@
                                 <p class="date">July 2021 - Present</p>
                                 <p class="location">Tuku Gadget - Jakarta, Indonesia</p>
                                 <p class="description">
-                                    aaaaaaaaaaa
+                                    Tuku Gadget is a retail store that operates across multiple e-commerce platforms in Indonesia. Specializing in electronic devices  and home living products, Tuku Gadget offers a diverse range of gadgets, electronics, and household items through various online  marketplaces. The store's presence across several e-commerce platforms allows it to reach a wider customer base, providing  convenience and accessibility to a variety of innovative and quality products for the modern lifestyle.
+                                    • Conducted market research for electronic and home living products to spot trends and customer preferences.
+                                    • Evaluated gadgets and home products for market viability and potential demand.
+                                    • Managed supplier relationships, negotiating for competitive pricing and quality.
+                                    • Assisted in inventory planning to meet customer demand efficiently.
+                                    • Collaborated on e-commerce to enhance product visibility online
                                 </p>
                             </div>
                         </div>
@@ -139,7 +147,12 @@
                                 <p class="date">Jun 2019 - Sep 2019</p>
                                 <p class="location">Datu Nusa Agribusiness - Lombok, Indonesia</p>
                                 <p class="description">
-                                    <!-- Experience description -->
+                                    PT. Datu Nusa Agribisnis aimed to produce low aflatoxin corn to meet national and export demands. They developed a 200- hectare maize plant in Lombok, West Nusa Tenggara. Additionally, they partnered with 7,200 maize farming families through DNA Cooperative, managing a 7,000-hectare corn plant area
+                                    • Evaluated aflatoxin levels in maize products, ensuring warehouse safety standards.
+                                    • Engaged in technologically enhanced maize plantation operations, fostering advanced agricultural practices.
+                                    • Spearheaded community development initiatives, empowering local farmers for superior maize cultivation.
+                                    • Cultivated partnerships with company clients and suppliers, learning valuable collaboration skills.
+                                    • Absorbed leadership insights by witnessing and contributing to the management of an agribusiness company
                                 </p>
                             </div>
                         </div>
